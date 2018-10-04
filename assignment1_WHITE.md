@@ -23,6 +23,9 @@ decided not to include the data from the *Journal of African American Men* due t
 around from the *Journal of African American Studies* included around 640 journal entries. 
 
 **4. Why the number of topics?**
+The number twenty-five is the number of topics that was assigned during the creation of this topic model. I thought I was going to have to adjust and make it bigger when I saw the initial results from the topic model but after much consideration, I realized that the words that were in groups made logical sense and it was the 'sweet spot' for the number of topics. The groups made logical sense and if I made the number of topics bigger, the existing topic model would be spread too thin and start to repeat itself. I didn't want this to happen so twenty-five is the number of topics. 
+
+I also took the size of my data into consideration because I had a small data set to begin with. My data set only had a little over 630 applicable articles within the journal. Compared to the other data sets that had large amounts of data like 30,000 plus, I knew my corpus was going to be more narrow and focused in terms of what words generated under the different topics. 
 
 **5. What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?**
 
