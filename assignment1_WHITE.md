@@ -39,3 +39,14 @@ One thing to note in the trend of the topics presented is that not every piece o
 The last trend that I noticed was that there were topics such as feminism, movements, and higher education in which the size of the words within these topics were larger than the other topics in the model. I was surprised by this and did further investigation. I figured out that these three topics contained the words that were talked about the most over the course of the publication of *Journal of African American Studies*. Upon discovering this, I realized that my initial thought about this journal being a source of motivation for the African American community could be true due to the fact that the writers were addressing both the past but looking to a brighter future for the African American community. 
 
 **6. Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?**
+
+The possiblities for text analysis and topic modeling include the following: 
+
+* Both are used to see broad (sometimes unexpected), large scale patterns in a corpus through distant reading and word frequencies in topic modeling (Underwood, DHQ, 2017)
+* TM is used as a form of text modeling to identify patterns (Brett, JDH, 2012)
+* Can be used to answer questions that are asked through the revision/manipulation of the data as shown in the work that Underwood and Goldstone did with PMLA (Goldstone & Underwood, JDH, 2012)
+
+The limitations of text analysis and topic modeling include the following:
+* Having to scrub the text of any HTML tags and/or formatting can be an inconvenience or take a lot of time/effort (Belvins, Martha Ballard's Diary, 2009). 
+* Accuracy - the accuracy of what is presented through the topic model can be off in terms of being exact (Belvins, Martha Ballard's Diary, 2009)
+* Topic modeling is time consuming in terms of compiling the texts that make up the corpus. However, there's a reward in that once the data has been compiled, it can be manipulated to answer whatever questions the author(s) have (Goldstone & Underwood, JDH, 2012)
