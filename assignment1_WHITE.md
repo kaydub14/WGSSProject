@@ -1,6 +1,6 @@
 # Written Response for Topic Modeling Assignment 1
 
-Howdy! Welcome to my written response to the topic model that I created. I've included a link to my topic model [here.](https://github.com/kaydub14/dh-topic-models) 
+Howdy! Welcome to my written response to the topic model that I created. I've included a link to my topic model [here.](https://kaydub14.github.io/dh-topic-models/) 
 Over the course of this assignment, I explored many trends and patterns in the *Journal of
 African American Studies*. I was thoroughly intrigued by the patterns that came up and will delve further into my findings below. 
 
