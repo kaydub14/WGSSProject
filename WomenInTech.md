@@ -1,4 +1,4 @@
-# Searching for Trends in Technology Trends through Topic Modeling
+# Searching for Trends in Technology through Topic Modeling
 
 #   Abstract
 
