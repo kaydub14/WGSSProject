@@ -13,3 +13,9 @@
   The Signs@40 topic model, which was developed by Andrew Goldstone, is an interactive topic model compiled of all Signs articles that 
   were written from 1945 to 2014. Signs@40 was created in honor of four decades of feminist scholarship within the Signs journal. 
   All of the research and comparisons between the two topic models will be displayed on GitHub, an online interactive platform.
+  
+  # Research Trends
+  
+  I have included a link to the Signs@40 topic model [here](http://signsat40.signsjournal.org/topic-model/) and a link to the topic model that I created [here](https://kaydub14.github.io/dh-topic-models-2/) as well. Feel free to open both links and compare the two topic models and see if there are any trends that can be noticed. 
+  
+  
