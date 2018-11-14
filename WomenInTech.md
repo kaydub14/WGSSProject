@@ -10,7 +10,7 @@
   
   * What topics were being discussed since 1945?
   * Were women included in the conversation of technology and the feminist movement? 
-  * Why are other trends being discussed and not others?
+  * Why are other trends being discussed within the feminist scholarship and not others?
   * Are there any noticeable trends that can correlate to external events occurring at that time?
   
 These questions are going to be answered through the research and analysis that is done with the Signs@40 topic model and the topic model 
