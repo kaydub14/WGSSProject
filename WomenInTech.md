@@ -2,7 +2,7 @@
 
 #   Abstract
 
-    Throughout the course of the semester, various topics have been discussed in terms of gender and work. One of these topics 
+        Throughout the course of the semester, various topics have been discussed in terms of gender and work. One of these topics 
   stood out to me and caught my interest. Women within the technology sector often have to deal with difficult situations while working 
   in a male-dominated environment. 
   In order to better understand these conditions, an analysis of two different topic models was done to 
