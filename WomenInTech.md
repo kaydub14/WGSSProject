@@ -38,12 +38,26 @@ feminist scholarship from 1945 until now. They highlight the importance of the w
 
 # Differences in Trends
 
+The differences between the two topic models were distinct. The first difference was that the *Signs@40* topic model was much larger 
+than the one I created which is fine. A smaller topic model means that the coding algorithm will filter more words to make more cohesive 
+topics. But the *Signs@40* topic model also had sixty nine years of history to cover, which means that the topic model has to be bigger 
+to accommodate for that. However, if a topic model is too large, the words within the topics start to not make sense because they are 
+too filtered. This also explains the absence of any topics that feminist scholars may know about but is not present within the topic models. Either there was not enough mention of the words relating to the topic or the algorithm simply did not pick up on that. 
+
+The *Signs@40* topic model displayed a deeper sense of history by mentioning topics such as "France or Classics" and "War or Germany" 
+while the topic model that I created only picked words regarding history. There wasn't much significance behind the words within each 
+topic in the topic model that I created but within the *Signs@40* topic model, there were stories that could easily be picked out to 
+correspond with what was occurring in historical context at the time. One would have to have knowledge of history to be able to 
+correlate the topics with the historical context.  
+
+Another interesting thing to note is that technology was mentioned within the *Signs@40* topic model regarding women and working in the technology field. I was interested to know if I would be able to pick up on the "Information Technology" topic if I expanded my topic model from twenty five topics to thirty or even forty topics. But I was not able to do so. However, I found it interesting that women in technology were being discussed in the 1900s but even today technology is still very gendered. Women then had to fight to have a job within the technology sector. Today, women still have to fight in order to get to the top of a technology company if they want to and even after they reach the top. The technology sector remains largely male-dominated today and according to research, it will be for a long time until men use their privilege to help women reach the areas that are largely underrepresented. 
+
 # Why Do We Care?
 
 Why do we care about this analysis of two topic models from two different sources? One, we can compare and contrast differences in the 
 articles and topics that were being discussed in feminist scholarship at various points through out the last several decades. Secondly, 
 this could be a great tool used in the classroom to discuss how feminist scholarship has evolved over time as one could see the 
-different trends in topics that were being disccused. Also, one could also see which topics were important at the various heights of the 
+different trends in topics that were being discussed. Also, one could also see which topics were important at the various heights of the 
 women's movement. These topic models can also serve as tools within the academic realm and help the current notable scholars see from a 
 broad perspective what angles or issues could be discussed or what the next topic to be discussed next in the future will be. The future 
 is far unknown in terms of what will happen next but it could be predicted as history has the tendency to repeat itself. The only new 
