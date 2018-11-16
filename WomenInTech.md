@@ -24,7 +24,7 @@ online interactive platform.
 I have included a link to the Signs@40 topic model [here](http://signsat40.signsjournal.org/topic-model/) and a link to the topic model 
 that I created [here](https://kaydub14.github.io/dh-topic-models-2/) as well. Feel free to open both links and compare the two topic
 models as you read along to this analysis. After building my topic model and assigning a topic to each group of words within a bubble, I 
-was able to compare the two topic models and notice the similarities and differences between the two. The set up of this analysis is going to be similarities first then differences and lastly how this is applicable to gender and work. 
+was able to compare the two topic models and notice the similarities and differences between the two. The setup of this analysis is going to be similarities first then differences and lastly how this is applicable to gender and work. 
 
 # Similarities in Trends
 
